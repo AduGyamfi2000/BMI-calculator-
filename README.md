@@ -1,3 +1,3 @@
 # BMI_calculator 
 
-A Flutter project that calculates Body Mass Index using height and weight
+A BMI app created with flutter and dart programming language that calculates Body Mass Index using height and weight
